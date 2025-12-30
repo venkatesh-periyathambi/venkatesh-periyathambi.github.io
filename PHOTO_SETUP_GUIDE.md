@@ -2,7 +2,7 @@
 
 ## 📸 WHAT'S NEW
 
-Your professional photo has been integrated into the website! 
+Your professional can be integrated into the website! 
 
 **Key changes:**
 - ✅ **Profile photo replaces** the generic avatar placeholder
@@ -27,9 +27,9 @@ You now have 2 updated files:
 
 **File name:** `profile.jpg` (exactly this)
 
-This is your AWS photo. You need to:
+This is your photo. You need to:
 
-1. Go to GitHub repo: `https://github.com/venkatesh-periyathambi/venkatesh-periyathambi.github.io`
+1. Go to GitHub repo: `https://github.com/profile name/gitname.github.io`
 2. Click "Add file" → "Upload files"
 3. Drag and drop your photo (`aws-080425-lr-80-1.jpg`)
 4. **Rename it to:** `profile.jpg` (use the GitHub rename feature)
