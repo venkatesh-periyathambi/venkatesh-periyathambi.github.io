@@ -14,7 +14,7 @@ Get 3 files online → Website goes live → Share with the world
 - [ ] Go to GitHub → Create styles.css
 - [ ] Go to GitHub → Create script.js
 - [ ] Wait 1-2 minutes
-- [ ] Visit: https://venkatesh-periyathambi.github.io
+- [ ] Visit: https://*git_name*.github.io
 - [ ] ✅ See your website!
 
 ---
@@ -23,12 +23,12 @@ Get 3 files online → Website goes live → Share with the world
 
 **GitHub Repo:**
 ```
-https://github.com/venkatesh-periyathambi/venkatesh-periyathambi.github.io
+https://github.com/profile_name/git_name.github.io
 ```
 
 **Your Live Website:**
 ```
-https://venkatesh-periyathambi.github.io
+https://git_name.github.io
 ```
 
 ---
